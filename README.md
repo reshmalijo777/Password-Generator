@@ -14,7 +14,7 @@ confirm whether or not to include lowercase, uppercase, numeric, and/or special 
 Then the input should be validated and at least one character type should be selected.Then a password is generated that matches the selected criteria
 It is displayed to the page.
 
-code source or reference taken from: 
+Reference taken from: 
 1.https://stackoverflow.com/questions/62627469/random-password-generator-with-prompts
 2.https://youtu.be/x4HUaiazDes(referred by our instructor)
 
