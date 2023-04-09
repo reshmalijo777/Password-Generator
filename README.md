@@ -2,8 +2,7 @@
 
 ## DESCRIPTION
 
-This is a randomly generate a password that meets certain criteria
-and create a strong password that provides greater security.
+This is a random password generator that meets certain criteria and creates a strong password that provides greater security for user.
 
 ## USAGE
 
